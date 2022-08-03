@@ -1,3 +1,2 @@
 # RocketFlightComputer
-Recording and processing of sensor data
-Written using Arduino.
+Recording and processing of sensor data and written using Arduino.
